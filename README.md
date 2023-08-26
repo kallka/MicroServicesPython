@@ -18,7 +18,8 @@ Skills Practiced:
     - pip install Flask
     - check dependencies: pip list
 - Jinja templating for Dynamic Web Pages 
-- Using Pip to Freeze Python Dependencies 
+- Using Pip to Freeze Python Dependencies
+    - freze in requirements: pip freeze > requirements.txt
 - Building the docker image using Dockerfile 
 - Writing Docker Compose file 
 - Writing Kubernetes Manifest files for the application 
